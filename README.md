@@ -52,14 +52,6 @@ prática de backend e construção de portfólio profissional.
 - GitHub
 - Backend em camadas
 
-## Tecnologias
-
-- Java
-- Programação Orientada a Objetos
-- Git
-- GitHub
-- Backend em camadas
-
 ## Estrutura do Projeto
 
 src/
